@@ -2,11 +2,11 @@ h1. Auraworks.com static site
 
 h3. StaticMagic
 
-I'm using StaticMagic to get haml and scss hottness.
+I'm using StaticMagic to get haml and scss hottness. https://github.com/staticmatic/staticmatic
 
 
 
-.h3 To-Dos
+h3. To-Dos
 
 * need automatic deployment based on github master branch pushes.
 * retire
